@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MyProject2 on Git
 //
-//  Created by 坂口慎吾 on 2018/04/07.
-//  Copyright © 2018年 坂口慎吾. All rights reserved.
+//  Created by AAAA on 2018/04/07.
+//  Copyright © 2018年 AAAA. All rights reserved.
 //
 
 import UIKit
